@@ -1,0 +1,23 @@
+body{
+  background-color:black;
+}
+.greenpanda{color:green;
+font-weight: bold;
+font-size: 20px;
+text-align: center;}
+
+.orangefruit{color:orange;
+font-size: 20px;}
+
+.redpanda{color:red;
+font-size: 10px;
+vertical-align: top;}
+
+.puppy{color:purple;
+font-size: 20px;
+text-align: right;}
+
+.Banana{color:yellow;
+text-transform: uppercase;
+font-style: italic;
+}
